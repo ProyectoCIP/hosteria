@@ -2,7 +2,7 @@ Sistema de Gestión - La Morada (oficial)
 ========================================
 
 Este proyecto se inició en Marzo del 2013 en la ciudad de Neuquén, provincia de Argentina.
-Es un proyecto académico que se realiza para la asignatura "Proyecto Final" dictada en el Institituto de Formación y Educación Superior (IFES)
+Es un proyecto académico que se realiza para la asignatura "Proyecto Final" dictada en el Instituto de Formación y Educación Superior (IFES)
 
 El proyecto está basado en el modelo Domain Drivin Design y su implementación es en Java utilizando el framework Apache ISIS 
 
